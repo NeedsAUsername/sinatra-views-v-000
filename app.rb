@@ -7,6 +7,6 @@ class App < Sinatra::Base
 	end
 
 	get'/info/ do
-
-	end 
+		"Testing the Info Page"
+	end
 end
